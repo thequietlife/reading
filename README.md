@@ -1,4 +1,4 @@
-# 📙 what I am reading
+# 📙 what I am reading for fun
 
 * 2026
   
