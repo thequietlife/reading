@@ -1,4 +1,4 @@
-# 📙 what I am reading for funzies
+# 📚 what I am reading for funzies
 
 I guess I'm a 'big' reader. I used to mainly read fiction before going to sleep. But I have been trying to read more during the day rather than scrolling on my phone. I thought it would be cool to keep track of how much fiction I read this year. 
 
