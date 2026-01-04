@@ -24,6 +24,12 @@ This was a bit difficult to get into. The first 30 or so pages. But I am glad I 
 ### Sept 2025
   
 ### **isaac asimov, earth is room enough**
+
+<p align="center">
+<img
+src="https://github.com/thequietlife/reading/blob/b51ed1d728bdce73c9ab5f92c2ddbcf00462d80e/images/earth%20is%20room%20enough.jpeg"
+alt="book cover of earth is room enough" width="400"/>
+
 This is the first Isaac Asimov that I have read. It's short stories. I don't love short stories because I usually want the length of a decent size book to get into the characters and story. These are really good. I went on to read another three books by the author (the foundation trilogy)
 
  
