@@ -1,4 +1,4 @@
-### [cryptonomicon] by neal stephenson
+### cryptonomicon by neal stephenson
 
 *
 *
