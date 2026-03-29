@@ -1,4 +1,4 @@
-# 📚 what I am reading for funzies
+# 📚 what I am reading for funsies
 
 I used to mainly read fiction before going to sleep. But I have been trying to read more during the day rather than scrolling on my phone. I thought it would be a good idea to keep track of how much fiction I read this year. At the end of last year I had forgotten about some of the books I had read.
 
