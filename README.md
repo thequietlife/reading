@@ -21,6 +21,9 @@ These are the books I’m reading more deliberately — slower, with notes, and 
 
 | Date | Title | Author | Notes | Cover |
 |:----:|:-----|:-------|:------|:-----:|
-| May 2026 | The Coming Wave | Mustafa Suleyman | Half way through. Recommended on a security slack channel I follow. Interesting. Bill Gates did a review on his website. | <img src="https://github.com/thequietlife/reading/blob/7af216c494e37f80decf193af072903b67fb199a/images/the%20coming%20wave.png" width="70"> |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| May 2026 | The Coming Wave | Mustafa Suleyman | Finished mid May. The need for containment is one of the main things echoed through the book. Recommended on a security slack channel I follow. Interesting. Bill Gates did a review on his [website](https://www.gatesnotes.com/books/books-home-topic/reader/the-coming-wave). | <img src="https://github.com/thequietlife/reading/blob/7af216c494e37f80decf193af072903b67fb199a/images/the%20coming%20wave.png" width="70"> |
+| May 2026 | Thinking, Fast and Slow | Daniel Kahneman |   |
+
+
+
+
