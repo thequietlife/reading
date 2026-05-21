@@ -22,7 +22,7 @@ These are the books I’m reading more deliberately — slower, with notes, and 
 | Date | Title | Author | Notes | Cover |
 |:----:|:-----|:-------|:------|:-----:|
 | May 2026 | The Coming Wave | Mustafa Suleyman | Finished mid May. The need for containment is one of the main things echoed through the book. Recommended on a security slack channel I follow. Interesting. Bill Gates did a review on his [website](https://www.gatesnotes.com/books/books-home-topic/reader/the-coming-wave). | <img src="https://github.com/thequietlife/reading/blob/7af216c494e37f80decf193af072903b67fb199a/images/the%20coming%20wave.png" width="70"> |
-| May 2026 | Empire of AI | Karen Hao | Just getting started on this tome. |   |
+| May 2026 | Empire of AI | [Karen Hao ](https://karendhao.com/)| Just getting started on this one. The author interviewed 300 people as research for the book. 150 of the interviews were OpenAI employees. I'm looking forward to it. | <img src="https://github.com/thequietlife/reading/blob/7ca84bc207fac793a743bd62a1d81cc13061fe47/images/empire%20of%20ai.jpg" width="70"> |
 
 
 
