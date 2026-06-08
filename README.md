@@ -1,8 +1,13 @@
 # 📚 what I am reading
 
-![reading](https://img.shields.io/badge/reading--for--funsies-blue)
+![reading](https://img.shields.io/badge/focus-deep%20reading-green)
 
-I used to mainly read fiction before going to sleep. But I have been trying to read more during the day rather than scrolling on my phone. I thought it would be a good idea to keep track of how much fiction I read this year. At the end of last year I had forgotten about some of the books I had read.
+| Date | Title | Author | Notes | Cover |
+|:----:|:-----|:-------|:------|:-----:|
+| May 2026 | Empire of AI | [Karen Hao ](https://karendhao.com/)| This is a massive book, over 400 pages. It is a detailed account of the building of OpenAI. The author, Karen Ho, had access to so many OpenAI staff members, internal Slack messages, and meeting notes that it made the read fascinating and provided credibility. I enjoyed it a lot more than The Coming Wave by Mustafa Suleyman, who founded DeepMind, which I read last month. Empire of AI really shows how Sam Altman operates and exposes similar patterns in other Silicon Valley startups like Scale and Appen: the use of cheap labor with poor working conditions doing distressing work. I didn't realize the amount of land required or the impact data centers have. The effect on locals is huge and doesn't match what the big corporations state on their websites (Google, Microsoft). I definitely recommend reading this one. The detailed footnotes are amazing.| <img src="https://github.com/thequietlife/reading/blob/7ca84bc207fac793a743bd62a1d81cc13061fe47/images/empire%20of%20ai.jpg" width="70"> |
+| May 2026 | The Coming Wave | Mustafa Suleyman | Finished mid May. The need for containment is one of the main things echoed through the book. Recommended on a security slack channel I follow. Interesting. Bill Gates did a review on his [website](https://www.gatesnotes.com/books/books-home-topic/reader/the-coming-wave). | <img src="https://github.com/thequietlife/reading/blob/7af216c494e37f80decf193af072903b67fb199a/images/the%20coming%20wave.png" width="70"> |
+
+![reading](https://img.shields.io/badge/reading--for--funsies-blue)
 
 | Date | Title | Author | Notes | Cover |
 |:----:|:-----|:-------|:------|:-----:|
@@ -13,15 +18,6 @@ I used to mainly read fiction before going to sleep. But I have been trying to r
 | Nov 2025 | Foundation and Empire | Isaac Asimov | Interesting that this was originally a trilogy and then expanded much later. I kept flipping back to track characters. Really good. | <img src="https://github.com/thequietlife/reading/blob/aff61ca1e964aad26dfadb2768c4855e0cd5b21d/images/foundation%20and%20empire.png" width="70"> |
 | Oct 2025 | Foundation | Isaac Asimov | A bit of a difficult read — felt disjointed until I realised it’s stitched from short stories. Keen to continue the series. | <img src="https://github.com/thequietlife/reading/blob/dba0e2030072c7dd2f560a4f4ee0fe675a76afbd/images/foundation.png" width="70"> |
 | Sept 2025 | Earth Is Room Enough | Isaac Asimov | First Asimov for me. Short stories aren’t usually my thing, but these were excellent. Led me into the Foundation series. | <img src="https://github.com/thequietlife/reading/blob/cee9eb03175a0c65c0735521910d3a7ef7b8c3f1/images/earth%20is%20room.png" width="70"> |
-
-## 📖 serious reads
-
-![reading](https://img.shields.io/badge/focus-deep%20reading-green)
-
-| Date | Title | Author | Notes | Cover |
-|:----:|:-----|:-------|:------|:-----:|
-| May 2026 | Empire of AI | [Karen Hao ](https://karendhao.com/)| Finished 8 June This is a massive book, over 400 pages. Is is a detailed capture of the building of OpenAI. The author, Karen Ho, had access to so many OpenAI staff, internal slack messages, meeting notes that it made the read so interesting and provided credibility. I enjoyed it a lot more than The Coming Wave by Mustafa Suleyman who founded DeepMind which I read last month. The Empire of AI really shows how Sam Altman operates and other Silicon Valley startups (Scale, Appen). The use of cheap labour with poor work conditions doing distressing work. I didn't realise the amount of land and the impact data centres have. The impact on locals is huge and doesn't match what the big corporations state on their websites (google, microsoft). I definitely recommend reading this one. The detailed footnotes are amazing. end May: Just getting started on this one. The author interviewed 300 people as research for the book. 150 of the interviews were OpenAI employees. I'm looking forward to it. | <img src="https://github.com/thequietlife/reading/blob/7ca84bc207fac793a743bd62a1d81cc13061fe47/images/empire%20of%20ai.jpg" width="70"> |
-| May 2026 | The Coming Wave | Mustafa Suleyman | Finished mid May. The need for containment is one of the main things echoed through the book. Recommended on a security slack channel I follow. Interesting. Bill Gates did a review on his [website](https://www.gatesnotes.com/books/books-home-topic/reader/the-coming-wave). | <img src="https://github.com/thequietlife/reading/blob/7af216c494e37f80decf193af072903b67fb199a/images/the%20coming%20wave.png" width="70"> |
 
 
 
